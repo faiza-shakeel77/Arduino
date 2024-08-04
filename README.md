@@ -8,3 +8,4 @@
 "Harnessing the capabilities of the Arduino platform and Bluetooth technology, this project offers a practical solution for battery level monitoring, ideal for various applications in electronics and IoT."
 
 "This project exemplifies how simple components like an Arduino and a Bluetooth module can be used to create a sophisticated and reliable battery level testing system."
+# ** Project Picture**![pic](https://github.com/user-attachments/assets/b45dd082-a4cf-4518-a1b4-1d0329c3b93c)
